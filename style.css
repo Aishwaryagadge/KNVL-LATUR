@@ -1,0 +1,43 @@
+<!Doctype>
+<html>
+<head>
+<style>
+*{
+   margin: 0px;
+   padding: 0px;
+box-sizing: border-box;
+ }
+body
+{
+  background-color:pink;
+}
+</head> 
+p
+{
+ text-align:right;
+ color:blue;
+
+}
+.form{
+    display:block;
+	width:100px;
+	height:80px;
+	border-style:solid;
+	text-align:right;
+	margin:20px;
+	padding-top:35px;
+	padding-bottom:10px;
+	background-color:blue;
+	float:left;
+	
+ }
+
+.a
+{
+ text-align:center;
+ color:red;
+ text-type:verdana;
+}
+</style>
+
+</html>
